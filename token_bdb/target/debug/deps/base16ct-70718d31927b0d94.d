@@ -1,0 +1,10 @@
+/Users/nicolesikorski/Desktop/TOKENBDB/token_bdb/target/debug/deps/base16ct-70718d31927b0d94.d: /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs
+
+/Users/nicolesikorski/Desktop/TOKENBDB/token_bdb/target/debug/deps/libbase16ct-70718d31927b0d94.rmeta: /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs /Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs
+
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs:
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs:
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs:
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs:
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs:
+/Users/nicolesikorski/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs:
