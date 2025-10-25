@@ -1,0 +1,5 @@
+import * as StellarSdk from '@stellar/stellar-sdk';
+
+export const CONTRACT_ID = 'CANHJWIYBGHTOAFDWF7HNKLVNYKOY42RSGCP5WMA6WD2XR6CFXJL23I4';
+export const NETWORK_PASSPHRASE = StellarSdk.Networks.TESTNET;
+export const RPC_URL = 'https://soroban-testnet.stellar.org';
