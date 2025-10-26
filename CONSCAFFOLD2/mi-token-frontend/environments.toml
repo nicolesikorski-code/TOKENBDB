@@ -76,7 +76,7 @@ name = "testnet-user"
 default = true
 
 [staging.contracts]
-token_bdb = { id = "CBTJCZYFM72HRRS2PRPMZ4EYPN7HNG4D3S5BNWHST72FL2XCZKLNP6ZT" }
+token_bdb = { id = "CA47QDVKM5CO7XX2GUGBIEYNWD44AHQBOUFW5A2NPOMZTXS33GU3U5I4" }
 
 ### Production environment configuration
 [production.network]

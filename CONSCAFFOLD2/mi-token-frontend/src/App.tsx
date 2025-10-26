@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { setAllowed, isConnected } from '@stellar/freighter-api';
 
 // Configuración de la red
-const CONTRACT_ID = 'CBTJCZYFM72HRRS2PRPMZ4EYPN7HNG4D3S5BNWHST72FL2XCZKLNP6ZT';
+const CONTRACT_ID = 'CA47QDVKM5CO7XX2GUGBIEYNWD44AHQBOUFW5A2NPOMZTXS33GU3U5I4';
 
 function App() {
   const [publicKey, setPublicKey] = useState<string>('');
