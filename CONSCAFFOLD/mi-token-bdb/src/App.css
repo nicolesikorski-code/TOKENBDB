@@ -1,3 +1,4 @@
+/* Reset y estilos base */
 * {
     margin: 0;
     padding: 0;
@@ -15,6 +16,7 @@
     padding: 20px;
   }
   
+  /* Contenedor principal */
   .app-container {
     max-width: 1200px;
     margin: 0 auto;
