@@ -1,0 +1,1 @@
+/Users/nicolesikorski/Desktop/TOKENBDB-1/CONSCAFFOLD2/token-bdb/target/wasm32v1-none/release/token_bdb.wasm: /Users/nicolesikorski/Desktop/TOKENBDB-1/CONSCAFFOLD2/token-bdb/src/errors.rs /Users/nicolesikorski/Desktop/TOKENBDB-1/CONSCAFFOLD2/token-bdb/src/lib.rs /Users/nicolesikorski/Desktop/TOKENBDB-1/CONSCAFFOLD2/token-bdb/src/storage.rs

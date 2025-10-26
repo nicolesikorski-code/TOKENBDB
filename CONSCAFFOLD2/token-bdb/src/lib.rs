@@ -8,6 +8,9 @@ use soroban_sdk::{
 mod storage;
 mod errors;
 
+#[cfg(test)]
+mod test;
+
 use storage::{DataKey, TokenMetadata};
 use errors::TokenError;
 

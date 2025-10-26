@@ -1,12 +1,13 @@
-use soroban_sdk::{contracttype, Address, String};
+use soroban_sdk::{contracttype, Address, String}; // Importa tipos necesarios de Soroban SDK
 
 /// Enum que define todas las claves de almacenamiento
 ///
 /// Separamos los datos en dos tipos de storage:
 /// - Instance Storage: Metadatos globales (más barato)
 /// - Persistent Storage: Datos de usuarios (requiere TTL)
-#[contracttype]
-pub enum DataKey {
+#[contracttype] // Macro que serializa el enum para la blockchain
+pub enum DataKey { //Líneas 9-41: Define todas las "claves" donde se guardan datos:
+
     /// Balance de cada usuario - Persistent Storage
     /// Usa Address como key para acceso O(1)
     Balance(Address),
@@ -44,7 +45,7 @@ pub enum DataKey {
 /// Usado en initialize() para pasar múltiples parámetros
 #[contracttype]
 #[derive(Clone)]
-pub struct TokenMetadata {
+pub struct TokenMetadata { //Struct para pasar metadata en una sola función
     pub name: String,
     pub symbol: String,
     pub decimals: u32,
